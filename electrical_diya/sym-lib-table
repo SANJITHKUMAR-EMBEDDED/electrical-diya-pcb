@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/sanji/Desktop/kicad/kicad_library/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_Microchip_Attiny85")(type "KiCad")(uri "${KIPRJMOD}/MCU_Microchip_Attiny85.kicad_sym")(options "")(descr ""))
+)
